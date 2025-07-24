@@ -1,0 +1,216 @@
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\appsettings.Development.json
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\appsettings.json
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\ocelot-dev-eureka.json
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\ocelot-dev-ports.json
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\ocelot-zbig-example.json
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\ocelot.json
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\apigateway-ocelot-dotnet8.exe
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\apigateway-ocelot-dotnet8.deps.json
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\apigateway-ocelot-dotnet8.runtimeconfig.json
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\apigateway-ocelot-dotnet8.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\apigateway-ocelot-dotnet8.pdb
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\CacheManager.Core.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Logging.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\FluentValidation.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\IPAddressRange.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.OpenApi.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Newtonsoft.Json.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Ocelot.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Ocelot.Provider.Eureka.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Ocelot.Provider.Polly.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Polly.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Polly.Core.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Common.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Common.Abstractions.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Common.Http.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Connector.Abstractions.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Connector.ConnectorBase.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Discovery.Abstractions.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Discovery.ClientBase.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Discovery.ClientCore.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Discovery.Eureka.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\System.Security.Permissions.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.csproj.AssemblyReference.cache
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.GeneratedMSBuildEditorConfig.editorconfig
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.AssemblyInfoInputs.cache
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.AssemblyInfo.cs
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.csproj.CoreCompileInputs.cache
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.MvcApplicationPartsAssemblyInfo.cs
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.MvcApplicationPartsAssemblyInfo.cache
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets.build.json
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets.development.json
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets\msbuild.apigateway-ocelot-dotnet8.Microsoft.AspNetCore.StaticWebAssets.props
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets\msbuild.build.apigateway-ocelot-dotnet8.props
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.apigateway-ocelot-dotnet8.props
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.apigateway-ocelot-dotnet8.props
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets.pack.json
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\scopedcss\bundle\apigateway-ocelot-dotnet8.styles.css
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigatew.34E0A1F3.Up2Date
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\refint\apigateway-ocelot-dotnet8.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.pdb
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.genruntimeconfig.cache
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\obj\Debug\net8.0\ref\apigateway-ocelot-dotnet8.dll
+d:\neumont\SEN300\2023 Bookstore\apigateway-ocelot-dotnet8\bin\Debug\net8.0\ocelot-prod-docker-eureka copy.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\ocelot-dev-eureka.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\ocelot-dev-ports.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\ocelot-prod-docker-eureka copy.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\ocelot-zbig-example.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\appsettings.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\ocelot.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\apigateway-ocelot-dotnet8.exe
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\apigateway-ocelot-dotnet8.deps.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\apigateway-ocelot-dotnet8.runtimeconfig.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\apigateway-ocelot-dotnet8.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\apigateway-ocelot-dotnet8.pdb
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\CacheManager.Core.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Logging.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Ocelot.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Ocelot.Provider.Eureka.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Ocelot.Provider.Polly.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Polly.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Common.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Common.Abstractions.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Common.Http.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Connector.Abstractions.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Connector.ConnectorBase.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Discovery.Abstractions.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Discovery.ClientBase.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Discovery.ClientCore.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Discovery.Eureka.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.csproj.AssemblyReference.cache
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.AssemblyInfoInputs.cache
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.AssemblyInfo.cs
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.csproj.CoreCompileInputs.cache
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets\msbuild.apigateway-ocelot-dotnet8.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets\msbuild.build.apigateway-ocelot-dotnet8.props
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.apigateway-ocelot-dotnet8.props
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.apigateway-ocelot-dotnet8.props
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\scopedcss\bundle\apigateway-ocelot-dotnet8.styles.css
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.csproj.CopyComplete
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\refint\apigateway-ocelot-dotnet8.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.pdb
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.genruntimeconfig.cache
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\biblioteca\apigateway-ocelot-dotnet8\obj\Debug\net8.0\ref\apigateway-ocelot-dotnet8.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\ocelot-dev-eureka.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\ocelot-dev-ports.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\ocelot-prod-docker-eureka copy.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\ocelot-zbig-example.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\ocelot.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\appsettings.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\apigateway-ocelot-dotnet8.exe
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\apigateway-ocelot-dotnet8.deps.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\apigateway-ocelot-dotnet8.runtimeconfig.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\apigateway-ocelot-dotnet8.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\apigateway-ocelot-dotnet8.pdb
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\CacheManager.Core.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Logging.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Ocelot.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Ocelot.Provider.Eureka.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Ocelot.Provider.Polly.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Polly.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Polly.Core.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Common.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Common.Abstractions.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Common.Http.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Connector.Abstractions.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Connector.ConnectorBase.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Discovery.Abstractions.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Discovery.ClientBase.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Discovery.ClientCore.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Discovery.Eureka.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Steeltoe.Extensions.Configuration.Abstractions.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.csproj.AssemblyReference.cache
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.AssemblyInfoInputs.cache
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.AssemblyInfo.cs
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.csproj.CoreCompileInputs.cache
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets\msbuild.apigateway-ocelot-dotnet8.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets\msbuild.build.apigateway-ocelot-dotnet8.props
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.apigateway-ocelot-dotnet8.props
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.apigateway-ocelot-dotnet8.props
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\scopedcss\bundle\apigateway-ocelot-dotnet8.styles.css
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.csproj.CopyComplete
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\refint\apigateway-ocelot-dotnet8.dll
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.pdb
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\apigateway-ocelot-dotnet8.genruntimeconfig.cache
+C:\Users\Will\Documents\Classes\Service Based Software Architecture\swords\apigateway-ocelot-dotnet8\obj\Debug\net8.0\ref\apigateway-ocelot-dotnet8.dll

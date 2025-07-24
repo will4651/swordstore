@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\apigateway-ocelot-dotnet8.props" />
+</Project>

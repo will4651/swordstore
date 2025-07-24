@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UivHu2puKkb5CEhB0rWq55Lh8OKQX9s2xDMDCg63RsA=",
+  "Source": "apigateway-ocelot-dotnet8",
+  "BasePath": "_content/apigateway-ocelot-dotnet8",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

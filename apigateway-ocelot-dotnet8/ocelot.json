@@ -1,0 +1,73 @@
+{
+  "Routes": [
+    {
+        "ServiceName": "SWORD100ServiceAPI",
+        "DownstreamPathTemplate": "/{everything}",
+        "UpstreamPathTemplate": "/swordserviceapi/{everything}",
+        "UpstreamHttpMethod": [
+            "GET",
+            "POST",
+            "PUT",
+            "DELETE"
+        ],
+        "FileCacheOptions": {
+            "TtlSeconds": 15
+        },
+        "LoadBalancerOptions": {
+            "Type": "LeastConnection",
+            "Key": null,
+            "Expiry": 0
+        }
+    },
+    {
+        "ServiceName": "SWORD100CartServiceAPI",
+        "DownstreamPathTemplate": "/{everything}",
+        "UpstreamPathTemplate": "/cartserviceapi/{everything}",
+        "UpstreamHttpMethod": [
+            "GET",
+            "POST",
+            "PUT",
+            "DELETE"
+        ],
+        "FileCacheOptions": {
+            "TtlSeconds": 15
+        },
+        "LoadBalancerOptions": {
+            "Type": "LeastConnection",
+            "Key": null,
+            "Expiry": 0
+        }
+    },
+    {
+        "ServiceName": "SWORD100OrderServiceAPI",
+        "DownstreamPathTemplate": "/{everything}",
+        "UpstreamPathTemplate": "/orderserviceapi/{everything}",
+        "UpstreamHttpMethod": [
+            "GET",
+            "POST",
+            "PUT",
+            "DELETE"
+        ],
+        "FileCacheOptions": {
+            "TtlSeconds": 15
+        },
+        "LoadBalancerOptions": {
+            "Type": "LeastConnection",
+            "Key": null,
+            "Expiry": 0
+        }
+    }
+  ],
+    "GlobalConfiguration": {
+        "BaseUrl": "http://SWORD100APIGateway:8080",
+        "RequestIdKey": "OcRequestId",
+        "DownstreamScheme": "http",
+        "ReRoutesCaseSensitive": false,
+        "UseServiceDiscovery": true,
+        "ServiceDiscoveryProvider": {
+            "Host": "SWORD100EurekaRegistry",
+            "Port": 8761,
+            "Type": "Eureka"
+        }
+    }
+}
