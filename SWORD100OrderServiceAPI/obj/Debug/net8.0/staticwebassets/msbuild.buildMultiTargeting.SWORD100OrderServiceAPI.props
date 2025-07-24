@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SWORD100OrderServiceAPI.props" />
+</Project>

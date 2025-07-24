@@ -1,0 +1,6 @@
+@SWORD100OrderServiceAPI_HostAddress = http://localhost:5228
+
+GET {{SWORD100OrderServiceAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
