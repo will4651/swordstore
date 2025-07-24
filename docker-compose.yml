@@ -1,0 +1,144 @@
+# Versioning
+version: '3.8'
+
+networks:
+    netSWORD100:
+        external: false
+
+services:
+
+  # MONGO
+    SWORD100ServiceDB: #image name
+        container_name: SWORD100ServiceDB
+        image: mongo:latest
+        restart: always
+        hostname: SWORD100ServiceDB
+        ports:
+        - "27017:27017"
+        networks:
+        - netSWORD100
+
+    SWORD100CartServiceDB:
+        container_name: SWORD100CartServiceDB
+        image: redis:latest
+        restart: always
+        hostname: SWORD100CartServiceDB
+        ports:
+        - "6379:6379"
+        networks:
+        - netSWORD100
+
+    SWORD100OrderServiceDB:
+        container_name: SWORD100OrderServiceDB
+        build:
+            context: ./SWORD100OrderServiceAPI
+            dockerfile: sqlserver.dockerfile
+        image: sword100orderservicedb:1
+        restart: always
+        hostname: SWORD100OrderServiceDB
+        ports:
+        - "1433:1433"
+        networks:
+        - netSWORD100
+        environment:
+            SA_PASSWORD: "abc123!!@"
+            ACCEPT_EULA: "Y"
+
+    SWORD100MessageQueue:
+        container_name: SWORD100MessageQueue
+        image: rabbitmq:3-management
+        restart: always
+        hostname: SWORD100MessageQueue
+        ports:
+        - "15672:15672"
+        - "5672:5672"
+        networks:
+        - netSWORD100
+
+    SWORD100EurekaRegistry:
+        container_name: SWORD100EurekaRegistry
+        image: steeltoeoss/eureka-server:latest
+        restart: always
+        hostname: SWORD100EurekaRegistry
+        ports:
+        - 8761:8761
+        networks:
+        - netSWORD100
+
+    SWORD100APIGateway:
+        container_name: SWORD100APIGateway
+        build:
+            context: ./apigateway-ocelot-dotnet8
+            dockerfile: Dockerfile
+        image: sword100apigateway:1
+        restart: always
+        hostname: SWORD100APIGateway
+        ports:
+        - 5041:8080
+        networks:
+        - netSWORD100
+        depends_on:
+        - SWORD100EurekaRegistry
+
+    SWORD100ServiceAPI:
+        #container_name: SWORD100ServiceAPI
+        build:
+            context: ./SWORD100ServiceAPI
+            dockerfile: Dockerfile
+        image: sword100serviceapi:1
+        restart: always
+        #hostname: SWORD100ServiceAPI
+        ports:
+        - "80"
+        #81:8080"
+        networks:
+        - netSWORD100
+        depends_on:
+        - SWORD100ServiceDB
+        - SWORD100EurekaRegistry
+        - SWORD100APIGateway
+        deploy:
+            mode: replicated
+            replicas: 3
+
+    SWORD100CartServiceAPI:
+        #container_name: SWORD100CartServiceAPI
+        build:
+            context: ./SWORD100CartServiceAPI
+            dockerfile: Dockerfile
+        image: sword100cartserviceapi:1
+        restart: always
+        #hostname: SWORD100CartServiceAPI
+        ports:
+        - "80"
+        #82:8080"
+        networks:
+        - netSWORD100
+        depends_on:
+        - SWORD100CartServiceDB
+        - SWORD100EurekaRegistry
+        - SWORD100APIGateway
+        deploy:
+            mode: replicated
+            replicas: 3
+
+    SWORD100OrderServiceAPI:
+        #container_name: SWORD100OrderServiceAPI
+        build:
+            context: ./SWORD100OrderServiceAPI
+            dockerfile: Dockerfile
+        image: sword100orderserviceapi:1
+        restart: always
+        #hostname: SWORD100OrderServiceAPI
+        ports:
+        - "80"
+        #83:8080"
+        networks:
+        - netSWORD100
+        depends_on:
+        - SWORD100OrderServiceDB
+        - SWORD100EurekaRegistry
+        - SWORD100APIGateway
+        deploy:
+            mode: replicated
+            replicas: 3
